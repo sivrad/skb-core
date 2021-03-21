@@ -33,5 +33,8 @@
     },
     "files": [
         "dist"
-    ]
+    ],
+    "dependencies": {
+        "@skb/collection": "^1.0.0"
+    }
 }
